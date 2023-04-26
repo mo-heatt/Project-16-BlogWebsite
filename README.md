@@ -14,7 +14,6 @@
   </p>
 
 ## 🤓 Author
-
 <table>
   <tr>
     <td align="center"><a href="https://github.com/mo-heatt"><br /><sub><b>Mohit Kumawat</b></sub></a><br /><a href="https://github.com/mo-heatt" title="Code">💻</a></td>
